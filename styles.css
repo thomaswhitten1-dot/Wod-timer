@@ -1,0 +1,39 @@
+:root{
+  --bg:#0b0c10;
+  --card:#12141b;
+  --text:#eef1f6;
+  --muted:#a9b2c3;
+  --accent:#6ea8fe;
+  --border:#222633;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);}
+a{color:inherit;text-decoration:none}
+.header{position:sticky;top:0;background:rgba(11,12,16,.92);backdrop-filter: blur(10px);border-bottom:1px solid var(--border);z-index:10}
+.container{max-width:920px;margin:0 auto;padding:16px}
+.h1{font-size:22px;font-weight:700;margin:0}
+.sub{color:var(--muted);font-size:13px;margin-top:6px}
+.search{margin-top:12px;display:flex;gap:8px}
+input[type="search"]{flex:1;padding:12px 12px;border-radius:12px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:16px}
+select{padding:12px;border-radius:12px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:16px}
+.list{display:grid;grid-template-columns:1fr;gap:10px;margin-top:14px}
+.item{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 12px;display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+.item .title{font-weight:650;font-size:16px;margin:0 0 4px 0}
+.item .meta{color:var(--muted);font-size:12px}
+.badges{display:flex;flex-wrap:wrap;gap:6px;justify-content:flex-end}
+.badge{font-size:11px;color:var(--text);border:1px solid var(--border);padding:4px 8px;border-radius:999px;background:rgba(255,255,255,.03)}
+.footer{color:var(--muted);font-size:12px;margin:18px 0 28px}
+.viewer{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden}
+.viewer img{width:100%;height:auto;display:block}
+.toolbar{display:flex;gap:10px;align-items:center;justify-content:space-between;margin-top:12px}
+.btn{padding:10px 12px;border-radius:12px;border:1px solid var(--border);background:rgba(255,255,255,.04);color:var(--text);font-weight:600}
+.btn.primary{background:var(--accent);border-color:transparent;color:#08111f}
+.timerCard{position:sticky;bottom:12px;margin-top:12px;background:rgba(18,20,27,.88);backdrop-filter: blur(12px);border:1px solid var(--border);border-radius:16px;padding:12px}
+.timerRow{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+.segment{display:flex;border:1px solid var(--border);border-radius:12px;overflow:hidden}
+.segment button{padding:10px 12px;border:0;background:transparent;color:var(--text);font-weight:650}
+.segment button.active{background:rgba(255,255,255,.08)}
+.time{font-size:34px;font-weight:750;font-variant-numeric:tabular-nums;letter-spacing:.5px}
+.small{color:var(--muted);font-size:12px;margin-top:4px}
+.presetRow{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.pill{padding:8px 10px;border-radius:999px;border:1px solid var(--border);background:rgba(255,255,255,.03);color:var(--text);font-weight:650}

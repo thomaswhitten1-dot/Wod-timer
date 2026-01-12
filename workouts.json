@@ -1,0 +1,438 @@
+[
+  {
+    "id": "100-50",
+    "title": "100 - 50",
+    "page": 1,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "100x6",
+    "title": "100 x 6 = pain",
+    "page": 1,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "300",
+    "title": "300",
+    "page": 1,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "4-miles-of-fun",
+    "title": "4 Miles of Fun",
+    "page": 1,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "alex",
+    "title": "Alex",
+    "page": 1,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "are-we-there-yet",
+    "title": "Are We There Yet?",
+    "page": 1,
+    "tags": [
+      "Endurance",
+      "Stamina"
+    ]
+  },
+  {
+    "id": "bravo-zero",
+    "title": "Bravo Zero",
+    "page": 1,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "bravo-zero-v2",
+    "title": "Bravo Zero v2.0",
+    "page": 1,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "bullet-proof",
+    "title": "Bullet Proof",
+    "page": 2,
+    "tags": [
+      "Strength",
+      "Stamina"
+    ]
+  },
+  {
+    "id": "burpee-hell",
+    "title": "Burpee-Hell",
+    "page": 2,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "connor",
+    "title": "Connor",
+    "page": 2,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "dead-ringer",
+    "title": "Dead Ringer",
+    "page": 2,
+    "tags": [
+      "Strength",
+      "Stamina"
+    ]
+  },
+  {
+    "id": "death-by-barbell",
+    "title": "Death by Bar-bell",
+    "page": 2,
+    "tags": [
+      "Strength"
+    ]
+  },
+  {
+    "id": "deck-of-cards-v1",
+    "title": "Deck of Cards (version 1)",
+    "page": 2,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "dick-draeger",
+    "title": "Dick Draeger",
+    "page": 2,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "embrace-the-suck",
+    "title": "Embrace the Suck",
+    "page": 2,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "fight-gone-bad-v2",
+    "title": "Fight Gone Bad v2.0",
+    "page": 2,
+    "tags": [
+      "MetCon",
+      "Intervals"
+    ]
+  },
+  {
+    "id": "fran-gone-bad",
+    "title": "Fran Gone Bad",
+    "page": 2,
+    "tags": [
+      "MetCon",
+      "Intervals"
+    ]
+  },
+  {
+    "id": "frantenque",
+    "title": "Frantenque",
+    "page": 2,
+    "tags": [
+      "MetCon",
+      "Run"
+    ]
+  },
+  {
+    "id": "frelen",
+    "title": "Frelen",
+    "page": 2,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "frindy",
+    "title": "Frindy",
+    "page": 3,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "invictus",
+    "title": "Invictus",
+    "page": 3,
+    "tags": [
+      "Intensity",
+      "Strength"
+    ]
+  },
+  {
+    "id": "jingle-jangle",
+    "title": "Jingle Jangle",
+    "page": 3,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "ladder-of-death",
+    "title": "Ladder of Death",
+    "page": 3,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "man-maker",
+    "title": "Man Maker",
+    "page": 3,
+    "tags": [
+      "Mental",
+      "Stamina"
+    ]
+  },
+  {
+    "id": "monsoor",
+    "title": "Monsoor",
+    "page": 3,
+    "tags": [
+      "Hero",
+      "MetCon",
+      "Core"
+    ]
+  },
+  {
+    "id": "peak-experience",
+    "title": "Peak Experience",
+    "page": 4,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "prisoner-of-war",
+    "title": "Prisoner of War",
+    "page": 4,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "ruck-suck",
+    "title": "Ruck Suck",
+    "page": 4,
+    "tags": [
+      "Endurance",
+      "Mental"
+    ]
+  },
+  {
+    "id": "rumble",
+    "title": "Rumble",
+    "page": 4,
+    "tags": [
+      "MetCon",
+      "Intervals"
+    ]
+  },
+  {
+    "id": "run-600",
+    "title": "Run 600",
+    "page": 4,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "running-with-angie",
+    "title": "Running with Angie",
+    "page": 4,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "running-with-angie-v2",
+    "title": "Running with Angie v2.0",
+    "page": 4,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "running-with-angie-mod1",
+    "title": "Running with Angie - Mod 1",
+    "page": 4,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "running-with-fran",
+    "title": "Running with Fran",
+    "page": 5,
+    "tags": [
+      "MetCon",
+      "Run"
+    ]
+  },
+  {
+    "id": "running-with-tabata",
+    "title": "Running with Tabata",
+    "page": 5,
+    "tags": [
+      "Intervals",
+      "Run"
+    ]
+  },
+  {
+    "id": "run-squat-push-run",
+    "title": "Run, Squat, Push, Run",
+    "page": 5,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "ryan",
+    "title": "Ryan",
+    "page": 5,
+    "tags": [
+      "MetCon",
+      "Run"
+    ]
+  },
+  {
+    "id": "seal-adventure-race",
+    "title": "Seal Adventure Race",
+    "page": 5,
+    "tags": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": "seal-fgb-1",
+    "title": "Seal Fight Gone Bad-1",
+    "page": 5,
+    "tags": [
+      "MetCon",
+      "Intervals"
+    ]
+  },
+  {
+    "id": "seal-fgb-2",
+    "title": "Seal Fight Gone Bad-2",
+    "page": 5,
+    "tags": [
+      "MetCon",
+      "Intervals"
+    ]
+  },
+  {
+    "id": "seal-fit",
+    "title": "Seal Fit",
+    "page": 5,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "tiffani",
+    "title": "Tiffani",
+    "page": 6,
+    "tags": [
+      "MetCon",
+      "Run"
+    ]
+  },
+  {
+    "id": "thermopylae-run",
+    "title": "Thermopylae Run",
+    "page": 6,
+    "tags": [
+      "MetCon",
+      "Run"
+    ]
+  },
+  {
+    "id": "the-grind",
+    "title": "The Grind",
+    "page": 6,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "the-pirates",
+    "title": "The Pirates",
+    "page": 6,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "thruster-buster",
+    "title": "Thruster Buster",
+    "page": 6,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "to-hell-you-row",
+    "title": "To Hell You Row",
+    "page": 6,
+    "tags": [
+      "MetCon",
+      "Row"
+    ]
+  },
+  {
+    "id": "unworthy",
+    "title": "Unworthy",
+    "page": 6,
+    "tags": [
+      "MetCon"
+    ]
+  },
+  {
+    "id": "weighted-pullup-pyramid",
+    "title": "Weighted Pull-up Pyramid",
+    "page": 6,
+    "tags": [
+      "Strength"
+    ]
+  },
+  {
+    "id": "nameless-page-7",
+    "title": "The Nameless Workouts (Page 7)",
+    "page": 7,
+    "tags": [
+      "Mixed"
+    ]
+  },
+  {
+    "id": "nameless-page-8",
+    "title": "The Nameless Workouts (Page 8)",
+    "page": 8,
+    "tags": [
+      "Mixed"
+    ]
+  }
+]

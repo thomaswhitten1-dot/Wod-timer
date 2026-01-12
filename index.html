@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0c10" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>WOD Timer</title>
+</head>
+<body>
+  <div class="header">
+    <div class="container">
+      <div class="h1">WOD Timer</div>
+      <div class="sub">Select a workout to view it and run a timer.</div>
+      <div class="search">
+        <input id="q" type="search" placeholder="Search workouts or tags…" autocomplete="off" />
+        <select id="tag">
+          <option value="">All</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <main class="container">
+    <div id="list" class="list"></div>
+    <div class="footer">
+      Tip: On iPhone, open this site in Safari → Share → “Add to Home Screen”.
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./service-worker.js');
+    }
+  </script>
+</body>
+</html>
